@@ -1,4 +1,6 @@
 # CryptoMiningUtility
+ 
+- - - -
 
 ## Why do I need this script ##
 Not everyone has dedicated mining rig.  Clicking on the mining command window causes the miner to freeze (with ccminer).  This is more common if someone else in the household may be using your computer which is also mining crypto.  Sometimes miners crash, although less common this script may help with that as well.
@@ -26,7 +28,10 @@ The script works in such a way that passing arguments to it will take priority o
 * miner.process - this is the name of the windows process for the miner that is called in the bat file, you can find this in windows  task manager but it's usually the name of the executable (with file extension) of the miner you are calling.
 * miner.hours - this is the the gpu restart interval in hours.  Decimal numbers should be ok but be careful if you go too small here!
 
-If you enjoy using this script please donate to:
+- - - -
+
+If you enjoy using this script you can donate to:
 * GRLC = GS1jr6k6LTWXfGP59V6EGHBbtEfbdH2bb1
 * LTC = LdWrUTRE9WiSQKoG8oqtA8tJCFh3RFuFz4
+
 Thank You!
