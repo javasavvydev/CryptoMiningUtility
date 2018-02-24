@@ -27,5 +27,6 @@ The script works in such a way that passing arguments to it will take priority o
 * miner.hours - this is the the gpu restart interval in hours.  Decimal numbers should be ok but be careful if you go too small here!
 
 If you enjoy using this script please donate to:
-GRLC = GS1jr6k6LTWXfGP59V6EGHBbtEfbdH2bb1
-LTC = LdWrUTRE9WiSQKoG8oqtA8tJCFh3RFuFz4
+* GRLC = GS1jr6k6LTWXfGP59V6EGHBbtEfbdH2bb1
+* LTC = LdWrUTRE9WiSQKoG8oqtA8tJCFh3RFuFz4
+Thank You!
