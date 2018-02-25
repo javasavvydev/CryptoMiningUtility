@@ -11,12 +11,13 @@ The following is a Powershell script that is configurable for various miners.  T
 The script works in such a way that passing arguments to it will take priority over setting property values.  If a properties file is inclucded and the script is run with no arguments it will use the values in the properties file.  If no properties file is included and no arguments are passed it will use the default values in the script which probably will not work for you unless you edit them.
 
 ## Using the script with your miner ##
-* First copy the powershell script and the properties file into the same folder as your mining executable
+* First copy the powershell script and the properties file into the same folder as your mining executable.
+* Then modify the properties file with your miners bat file name and miner executable, and update the restart interval.
 * The powershell script does not require the properties file to be used.  
   * To run the miner overriding the properties you can run the command from a powershell window:
   * .\RunRebootableMiner.ps1 -minerBat <name_of_bat_file> -restartHours <restart_frequency> -processName <windows_processes_name>
-* You can modify the default variables within the script instead of using the properties file.
-* It is recommended to just use the properties file.
+  * You can also modify the default variables within the script instead of using the properties file.  In order for these values to be used, delete the properties file.
+* It is recommended to just use the properties file though.
 
 ## Arguments to script ##
 * minerBat - this is the name of the bat file that is used to start your miners.  This should include the file extension.
