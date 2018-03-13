@@ -3,7 +3,7 @@
 - - - -
 
 ## Why do I need this script ##
-Not everyone has dedicated mining rig.  Clicking on the mining command window causes the miner to freeze (with ccminer).  This is more common if someone else in the household may be using your computer which is also mining crypto.  Sometimes miners crash, although less common this script may help with that as well.
+Not everyone has dedicated mining rig.  Clicking on the mining command window causes the miner to freeze (with ccminer).  This is more common if someone else in the household may be using your computer which is also mining crypto.  Sometimes miners crash while your trying to find a stable overclock this will ensure it does not stay down too long while test.  
 
 # About the Script #
 The following is a Powershell script that is configurable for various miners.  There are 3 ways to use the script.  Since most miner scripts ask that you create a bat file, this script is create to utilize that bat file to run the miner.  Currently this has only been tested on a single GPU and CPU, support for multiple miners coming soon?
