@@ -36,7 +36,7 @@ The script works in such a way that passing arguments to it will take priority o
  ```
  
  ## Troubleshooting ##
- * If you receive and error abot scripts being disable on your system please reference the microsoft docs 
+ * If you receive an error about scripts being disable on your system please reference the microsoft docs 
    * https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6&viewFallbackFrom=powershell-Microsoft.PowerShell.Core
  * Or really this stack overflow explains it pretty well.
      * https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
