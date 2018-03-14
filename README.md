@@ -28,7 +28,9 @@ The script works in such a way that passing arguments to it will take priority o
 * miner.bat - this is the name of the bat file that is used to start your miners.  This should include the file extension.
 * miner.process - this is the name of the windows process for the miner that is called in the bat file, you can find this in windows  task manager but it's usually the name of the executable (with file extension) of the miner you are calling.
 * miner.hours - this is the the gpu restart interval in hours.  Decimal numbers should be ok but be careful if you go too small here!
-
+* e.g ```miner.bat=start-ccminer-allium-x64.bat
+miner.process=cpuminer-allium-x64.exe
+miner.hours=6```
 - - - -
 
 If you enjoy using this script you can donate to:
