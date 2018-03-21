@@ -52,5 +52,6 @@ The script works in such a way that passing arguments to it will take priority o
 If you enjoy using this script you can donate to:
 * GRLC = GS1jr6k6LTWXfGP59V6EGHBbtEfbdH2bb1
 * LTC = LdWrUTRE9WiSQKoG8oqtA8tJCFh3RFuFz4
+* RVN = RP9DEeBWSAkhBwufhkvsovbMGAwLh51chu
 
 Thank You!
